@@ -1,4 +1,4 @@
-<!--kkkkkkkkkkkkkk-->
+<!--kkkkkkkkkkkkkk
 # PHP-MySQL-Login-System
 User login and registration system built using PHP and MySQL .
 
@@ -9,6 +9,6 @@ User login and registration system built using PHP and MySQL .
 ![screenshot](./img/screenshot-3.png)
 ![screenshot](./img/screenshot-4.png)
 ![screenshot](./img/screenshot-5.png)
-<!--![screenshot](./img/screenshot-6.png)
+![screenshot](./img/screenshot-6.png)
 dsadasdddddddddddddddddddddddddddddddddddddddddddddddddd-->
 
